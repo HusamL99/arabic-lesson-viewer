@@ -1,0 +1,11 @@
+{
+  "name": "premium-arabic-lesson-viewer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Client-side Arabic lesson builder and immersive viewer with portable standalone exports.",
+  "scripts": {
+    "dev": "node server.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}

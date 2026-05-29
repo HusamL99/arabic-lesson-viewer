@@ -2,24 +2,7 @@
 
 A client-side Arabic lesson builder and immersive viewer for Jordanian Arabic learning.
 
-## Run Locally
 
-Open the app at:
-
-```text
-http://localhost:4173
-```
-
-If the local server is not running, start it with Node:
-
-```powershell
-node server.mjs
-```
-
-In this Codex workspace, the bundled runtime also works:
-
-```powershell
-C:\Users\user\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin\node.exe server.mjs
 ```
 
 ## Lesson Syntax

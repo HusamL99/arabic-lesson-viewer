@@ -8,17 +8,6 @@ This project is designed for me as an Arabic tutor. It supports structured lesso
 
 This project was created with **OpenAI Codex** through a **vibe-coding workflow**: the product direction, pedagogy, and design goals were human-led, while Codex generated and refined the implementation, architecture, UI system, parser, export flow, and documentation.
 
-## Live Use
-
-The app is designed to run directly from GitHub Pages.
-
-Expected GitHub Pages URL format:
-
-```text
-https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/
-```
-
-The app is static and client-side only. There is no backend, no database, and no server requirement once it is uploaded to GitHub Pages.
 
 ## What It Does
 

@@ -119,27 +119,5 @@ Notes:
 
 Read the development guide before changing parser behavior, export behavior, state persistence, card interactions, image mapping, or the design system.
 
-## Deployment Notes
-
-For GitHub Pages:
-
-1. Put `index.html` at the repository root.
-2. Keep the `src/` folder beside it.
-3. Keep `.nojekyll` in the repository root so GitHub Pages serves the files directly.
-4. In GitHub repository settings, enable Pages from the `main` branch and root folder.
-5. Visit the generated Pages URL.
-
-Required files for the live app:
-
-```text
-index.html
-src/app.js
-src/styles.css
-src/parser.js
-src/exporter.js
-src/store.js
-src/sample.js
-src/icons.js
-```
 
 Project implementation and documentation were produced with OpenAI Codex as a vibe-coding collaborator under human direction.

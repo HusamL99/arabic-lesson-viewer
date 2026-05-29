@@ -175,10 +175,4 @@ src/sample.js
 src/icons.js
 ```
 
-The remaining files are documentation, local server support, and validation tooling.
-
-## License And Attribution
-
-No license has been selected yet. Add a license before distributing or reusing this project publicly beyond personal or instructional use.
-
 Project implementation and documentation were produced with OpenAI Codex as a vibe-coding collaborator under human direction.

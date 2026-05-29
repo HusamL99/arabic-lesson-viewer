@@ -1,8 +1,8 @@
 # Premium Arabic Lesson Viewer
 
-A premium, client-side Arabic lesson builder and immersive lesson viewer for Jordanian Arabic learning.
+A premium, Arabic lesson builder and immersive lesson viewer for Jordanian Arabic learning.
 
-This project is designed for teachers and learners who need more than a simple markdown viewer. It supports structured lesson authoring, image-backed vocabulary and reading items, translation reveal, focus mode, progress tracking, and standalone lesson export for reuse across students and lessons.
+This project is designed for me as an Arabic tutor. It supports structured lesson authoring, image-backed vocabulary and reading items, translation reveal, focus mode, progress tracking, and standalone lesson export for reuse across students and lessons.
 
 ## Built With Codex
 

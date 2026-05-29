@@ -112,28 +112,6 @@ Notes:
 5. Use focus mode for one-card-at-a-time study.
 6. Track progress as cards are studied.
 
-## Local Development
-
-The project can be served locally with Node:
-
-```powershell
-node server.mjs
-```
-
-Then open:
-
-```text
-http://localhost:4173
-```
-
-If the app does not open locally by double-clicking `index.html`, that is expected in some browsers. The app uses JavaScript modules, and browsers may block module imports from `file://`. GitHub Pages works because it serves the files over `https://`.
-
-Run the validation script:
-
-```powershell
-node scripts/check.mjs
-```
-
 ## Documentation For Future Development
 
 - [PROJECT_BRIEF.md](./PROJECT_BRIEF.md) preserves the complete Premium Arabic Lesson Viewer Rebuild plan and product intent.
